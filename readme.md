@@ -11,7 +11,7 @@
 
 ## Course Introduction
 
-200+ Videos. 20+ Hours. 6 DevOps Tools - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
+300+ Videos. 20+ Hours. 6 DevOps Tools - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
 
 Do you need more reasons for enrolling for this amazing course on DevOps?
 
